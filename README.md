@@ -1,4 +1,4 @@
-# Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars
+## Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars
 
 ![Teaser image](./docs/teaser_v3.jpeg)
 
