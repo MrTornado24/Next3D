@@ -1,6 +1,6 @@
 # Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars
 
-![Teaser image](./docs/rep.png)
+![Teaser image](./docs/teaser_v3.jpeg)
 
 **Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars**<br>
 [Jingxiang Sun](https://mrtornado24.github.io/), [Xuan Wang](https://xuanwangvc.github.io/), [Lizhen Wang](https://lizhenwangt.github.io/), [Xiaoyu Li](https://xiaoyu258.github.io/), [Yong Zhang](https://yzhang2016.github.io/yongnorriszhang.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Yebin Liu](http://www.liuyebin.com/)<br><br>
