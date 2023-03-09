@@ -70,7 +70,7 @@ Download the pretrained models for FLAME estimation following [DECA](https://git
 
 ### Preparing datasets
 
-The video reenactment input contains three parts: camera poses `dataset.json`, FLAME meshes ('.obj') and 2D landmark files ('.txt'). For quick start, you can download the processed talking video of President Obama [here]() and place the downloaded folder as `data/obama`. You can also preprocess your custom datasets by running the following commands:
+The video reenactment input contains three parts: camera poses `dataset.json`, FLAME meshes ('.obj') and 2D landmark files ('.txt'). For quick start, you can download the processed talking video of President Obama [here](https://drive.google.com/file/d/1ph77uSlLz-xIVlBxwXP3Et7lTR0zHXQR/view?usp=sharing) and place the downloaded folder as `data/obama`. You can also preprocess your custom datasets by running the following commands:
 
 ```.bash
 cd dataset_preprocessing/ffhq
