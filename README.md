@@ -98,6 +98,7 @@ Download and process [Flickr-Faces-HQ dataset](https://github.com/NVlabs/ffhq-da
 cd dataset_preprocessing/ffhq
 python runme.py
 ```
+You can perform FLAME and landmarks estimation referring to [preprocess_in_the_wild.py](./dataset_preprocessing/ffhq/preprocess_in_the_wild.py). We will also integrate all the preprocessing steps into a script soon. 
 The dataset should be organized as below:
 ```
     ├── /path/to/dataset

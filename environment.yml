@@ -8,19 +8,19 @@
 # without an express license agreement from NVIDIA CORPORATION or
 # its affiliates is strictly prohibited.
 
-name: eg3d
+name: next3d
 channels:
   - pytorch
   - nvidia
 dependencies:
-  - python >= 3.8
+  - python >= 3.9
   - pip
   - numpy>=1.20
   - click>=8.0
   - pillow=8.3.1
   - scipy=1.7.1
-  - pytorch=1.11.0
-  - cudatoolkit=11.1
+  - pytorch=1.12.0
+  - cudatoolkit=11.3
   - requests=2.26.0
   - tqdm=4.62.2
   - ninja=1.10.2
@@ -35,3 +35,4 @@ dependencies:
     - psutil
     - mrcfile
     - tensorboard
+    - jittor
