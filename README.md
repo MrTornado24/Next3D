@@ -22,6 +22,9 @@ expression control of mesh-guided explicit deformation and the flexibility of im
 which is not taken into account by 3DMM. Our method demonstrates state-of-the-art 3D-aware synthesis quality and animation ability through extensive experiments. Furthermore, serving as 3D prior, our animatable 3D repre-
 sentation boosts multiple applications including one-shot facial avatars and 3D-aware stylization.*
 
+## News
+[Oct 2024] We released the [code](https://github.com/XChenZ/invertAvatar) for our new SIGGRAPH 2024 paper: ["InvertAvatar: Incremental GAN Inversion for Generalized Head Avatars"](https://xchenz.github.io/invertavatar_page/)! InvertAvatar is built on an improved Next3D backbone and enables building high-quality 3D personal head avatar in 1s.
+
 ## Requirements
 
 * 1&ndash;8 high-end NVIDIA GPUs. We have done all testing and development using V100, RTX3090, and A100 GPUs.
@@ -135,6 +138,27 @@ Code will come soon.
   booktitle = {CVPR},
   year = {2023}
 }
+```
+
+```
+@inproceedings{10.1145/3641519.3657478,
+author = {Zhao, Xiaochen and Sun, Jingxiang and Wang, Lizhen and Suo, Jinli and Liu, Yebin},
+title = {InvertAvatar: Incremental GAN Inversion for Generalized Head Avatars},
+year = {2024},
+isbn = {9798400705250},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3641519.3657478},
+doi = {10.1145/3641519.3657478},
+booktitle = {ACM SIGGRAPH 2024 Conference Papers},
+articleno = {59},
+numpages = {10},
+keywords = {3D head avatar, GAN inversion, few-shot reconstruction, one-shot reconstruction, recurrent neural network},
+location = {Denver, CO, USA},
+series = {SIGGRAPH '24}
+}
+
+
 ```
 
 ## Acknowledgements
